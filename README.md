@@ -1,16 +1,55 @@
-## Hi there 👋
+👋 Hello, I am Hemazo Paulina Abike
 
-<!--
-**Paulinaportfolio/paulinaportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 About Me
 
-Here are some ideas to get you started:
+I am a passionate and detail-oriented aspiring Data Analyst and Data Engineer with a strong interest in transforming data into meaningful insights that support decision-making. I am currently building my skills through hands-on projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎯 What I Do
+
+- 📊 Data Analysis (Excel, SQL, Python)
+- 📈 Data Visualization (Power BI)
+- 🧹 Data Cleaning and Preparation
+- 📚 Continuous Learning in Data Science and Engineering
+
+---
+
+🛠️ Tools & Technologies
+
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Git & GitHub
+
+---
+
+📂 Featured Projects
+
+- 📊 Sales Performance Analysis
+- 📈 Customer Insights Dashboard
+- 🧾 Data Cleaning Projects
+
+(Project links will be added as I continue building my portfolio)
+
+---
+
+🌱 Currently Learning
+
+- Advanced SQL Techniques
+- Python for Data Analysis
+- Data Engineering Fundamentals
+
+---
+
+📫 Contact Me
+
+- Email: Paulinahemazo52@gmail.com
+- LinkedIn: ‎www.linkedin.com/in/Hemazopaulina
+‎
+---
+
+🚀 Career Goal
+
+To become a highly skilled Data Analyst and Data Engineer, contributing to data-driven decision-making in a forward-thinking organization.
