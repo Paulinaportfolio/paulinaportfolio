@@ -15,6 +15,8 @@ I am a passionate and detail-oriented aspiring Data Analyst and Data Engineer wi
 
 ---
 
+## The tools I used
+
 🛠️ Tools & Technologies
 
 - Microsoft Excel
